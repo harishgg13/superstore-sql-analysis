@@ -48,12 +48,12 @@ Analyze loss-making products for removal or improvement
 SuperStore.sql → All SQL queries
 Superstore_sales_analysis.pdf → Final business insights
 
-## 🔹 Tools Used
+🔹 Tools Used
 ---
 MySQL
 SQL
 
-## 🔹 Author
+🔹 Author
 ---
 G G Harish
 harishgg03@gmail.com
