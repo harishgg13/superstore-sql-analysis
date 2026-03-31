@@ -1,4 +1,5 @@
 📊 Superstore Sales Analysis (SQL Project)
+---
 
 🔹 Objective
 
